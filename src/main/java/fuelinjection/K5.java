@@ -1,8 +1,10 @@
-class Sonata extends Car {
-    private static final double DISTANCE_PER_LITER = 10;
-    private static final String CAR_NAME = "Sonata";
+package fuelinjection;
 
-    Sonata(double tripDistance) {
+class K5 extends Car {
+    private static final double DISTANCE_PER_LITER = 13;
+    private static final String CAR_NAME = "fuelinjection.K5";
+
+    K5(double tripDistance) {
         this.tripDistance = new TripDistance(tripDistance);
     }
 

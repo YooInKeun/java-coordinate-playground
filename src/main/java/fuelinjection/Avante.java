@@ -1,8 +1,10 @@
-class K5 extends Car {
-    private static final double DISTANCE_PER_LITER = 13;
-    private static final String CAR_NAME = "K5";
+package fuelinjection;
 
-    K5(double tripDistance) {
+class Avante extends Car {
+    private static final double DISTANCE_PER_LITER = 15;
+    private static final String CAR_NAME = "fuelinjection.Avante";
+
+    Avante(double tripDistance) {
         this.tripDistance = new TripDistance(tripDistance);
     }
 

@@ -1,3 +1,5 @@
+package fuelinjection;
+
 import java.util.ArrayList;
 
 class RentCompany {

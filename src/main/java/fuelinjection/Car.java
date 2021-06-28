@@ -1,3 +1,5 @@
+package fuelinjection;
+
 abstract class Car {
     protected TripDistance tripDistance;
 

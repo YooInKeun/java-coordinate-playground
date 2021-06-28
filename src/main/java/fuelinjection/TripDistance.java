@@ -1,3 +1,5 @@
+package fuelinjection;
+
 class TripDistance {
     private static final double MIN_DISTANCE = 0;
     private static final String UNIT = "km";

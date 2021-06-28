@@ -1,3 +1,5 @@
+package fuelinjection;
+
 class CarReport {
     private static final String SPACE = " ";
     private static final String COLON = ":";
